@@ -1,0 +1,8 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {"type": "Feature", "id": 0, "geometry": {"type": "Point", "coordinates": [55.796032, 49.114520]}, "properties": {"balloonContentHeader": "<font size=3><b><a target='_blank'>АйБайк Тревел</a></b></font>", "balloonContentBody": "<p>Прокат: цена 80-150 \u20BD/час</p>", "balloonContentFooter": "<font size=1>: </font> ", "clusterCaption": "<strong><s></s> </strong>", "hintContent": "<strong>Велопрокат</strong>"}}
+
+
+]
+}
